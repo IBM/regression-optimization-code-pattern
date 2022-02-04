@@ -1,0 +1,8 @@
+plant,label,product,lower,upper,model_type,model_name,model_stats
+P1,bitumen,1,50,15000,LR_SK,model_P1_1_LR_SK_nb_example_system_wide,model_P1_1_LR_SK_nb_example_system_wide_stats
+P2,bitumen,1,100,20000,LR_SK,model_P2_1_LR_SK_nb_example_system_wide,model_P2_1_LR_SK_nb_example_system_wide_stats
+P3,bitumen,1,100,600,LR,model_P3_1_LR_params_nb_example_system_wide,None
+,hot process water,2,100,11000,LR,model_P3_2_LR_params_nb_example_system_wide,None
+,diluent,3,100,26000,LR,model_P3_3_LR_params_nb_example_system_wide,None
+P4,bitumen,1,100,11000,LR,model_P4_1_LR_params_nb_example_system_wide,None
+P5,bitumen,1,100,26000,LR,model_P5_1_LR_params_nb_example_system_wide,None

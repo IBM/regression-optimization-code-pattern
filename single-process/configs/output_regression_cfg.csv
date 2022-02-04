@@ -1,0 +1,2 @@
+plant,label,product,lower,upper,model_type,model_name,model_stats
+P1,bitumen,1,50,15000,LR_SK,model_P1_1_LR_SK_nb_example,model_P1_1_LR_SK_nb_example_stats
